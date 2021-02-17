@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lab10-clone/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/lab10-clone/static/js/main.fe3a6239.chunk.js",
+    "main.js.map": "/lab10-clone/static/js/main.fe3a6239.chunk.js.map",
+    "runtime-main.js": "/lab10-clone/static/js/runtime-main.4dddf203.js",
+    "runtime-main.js.map": "/lab10-clone/static/js/runtime-main.4dddf203.js.map",
+    "static/js/2.24c32e5d.chunk.js": "/lab10-clone/static/js/2.24c32e5d.chunk.js",
+    "static/js/2.24c32e5d.chunk.js.map": "/lab10-clone/static/js/2.24c32e5d.chunk.js.map",
+    "static/js/3.0a45166b.chunk.js": "/lab10-clone/static/js/3.0a45166b.chunk.js",
+    "static/js/3.0a45166b.chunk.js.map": "/lab10-clone/static/js/3.0a45166b.chunk.js.map",
+    "index.html": "/lab10-clone/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/lab10-clone/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.24c32e5d.chunk.js.LICENSE.txt": "/lab10-clone/static/js/2.24c32e5d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lab10-clone/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dddf203.js",
+    "static/js/2.24c32e5d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.fe3a6239.chunk.js"
+  ]
+}
